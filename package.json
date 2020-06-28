@@ -2,7 +2,7 @@
   "name": "coming_soon",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://apprepub.org",
+  "homepage": "https://apprepub.github.io/coming_soon/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
